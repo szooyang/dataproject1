@@ -5,4 +5,4 @@ st.title('나의 첫 웹 서비스 만들기!!')
 # if st.button('인사말 생성'):
 #  st.write(name+'님! 당신이 좋아하는 음식은 '+menu+'이군요! 저도 좋아해요!!')
 
-st.write('안녕하세요!')
+st.write(name+'안녕하세요!')
